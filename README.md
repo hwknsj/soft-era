@@ -1,3 +1,4 @@
+<main style="text-align: center;">
 <div style="margin: 0 auto; text-align: center; width: 100%; box-shadow: 4px 4px 28px rgba(33, 33, 33, 0.09);">
   <img src="https://addons.cdn.mozilla.net/user-media/version-previews/full/2899/2899657.png?modified=1613543653" alt="soft era preview" title="soft era" />
 </div>
@@ -46,3 +47,4 @@
     </div>
   </a>
 </article>
+</main>
